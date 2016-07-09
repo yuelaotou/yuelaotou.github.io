@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{king:title/}-{king:sitename/}</title>
+<link href="images/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top">
+	<div class="right">
+		<p>
+			{king:articlelist}
+			<span><a href="(king:listpath/)" target="_blank" >(king:listname/)</a></span>
+			{/king}			
+		</p>
+	</div>
+</div>
+
+<div id="main">
+
+		        <h1 class="title">{king:title/}</h1>
+		<div id="guide">
+		{king:guide name="当前位置"/}
+		</div>
+		{king:inside/}
+
+</div>
+
+<div id="bottom"><div class="left">{king:ad name="foot1"/}</div>
+	<div class="center">{king:sitename/}版权所有 </div>
+</div>
+
+</body>
+</html>

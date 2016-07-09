@@ -1,0 +1,41 @@
+body {
+	SCROLLBAR-FACE-COLOR:#779BE5;
+	SCROLLBAR-HIGHLIGHT-COLOR:#FFFFFF;
+	SCROLLBAR-SHADOW-COLOR:#4554B9;
+	SCROLLBAR-3DLIGHT-COLOR:#D7DEF8;
+	SCROLLBAR-ARROW-COLOR:#D7DEF8;
+	SCROLLBAR-TRACK-COLOR:#EEEEEE;
+	SCROLLBAR-DARKSHADOW-COLOR:#D7DEF8;
+	font-family: "ËÎÌו";
+	font-size: 12px;
+	line-height: 22px;
+	text-decoration: none;
+	text-align: center;
+}
+input {
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px double #D7DEF8;
+}
+td {
+	font-family: "ËÎÌו";
+	font-size: 12px;
+	line-height: 22px;
+	color: #0033CC;
+	text-decoration: none;
+}
+a:link {
+	color: #0066FF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0066FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+}

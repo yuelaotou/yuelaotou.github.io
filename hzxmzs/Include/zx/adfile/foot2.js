@@ -1,0 +1,1 @@
+document.writeln("<li><a href=\"http:\/\/www.hzbaima.cn\/\">网站推广<\/a><\/li>")

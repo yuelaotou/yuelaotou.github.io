@@ -1,0 +1,74 @@
+body,td,th {
+	font-size: 12px;
+	color: #666666;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: none;
+	color: #CA0404;
+}
+a:active {
+	text-decoration: none;
+	color: #CA0404;
+}
+ul,li{ list-style:none; margin:0; padding:0}
+#menu{background:url(../images/index_13.gif); height:42px}
+#menu li{ width:90px; float:left}
+#menu li.jianju{padding-right:3px; }
+.menu{ width:90px; height:30px; background:url(../images/index_14.gif); display:block; text-align:center; font-size:14px; font-weight:bold; padding-top:12px}
+.menu:link,.menu:visited{ width:90px; height:30px; background:url(../images/index_14.gif); display:block; text-align:center;padding-top:12px}
+
+.menu01{ width:90px; height:30px; background:url(../images/index_12.gif); display:block; text-align:center; font-size:14px; font-weight:bold; padding-top:12px; color:#fff}
+.menu01:link,.menu01:visited{ width:90px; height:30px; background:url(../images/index_12.gif); display:block; text-align:center;padding-top:12px; color:#fff}
+
+.red{ color:#DB0707}
+.red01{ color:#DB0707}
+.red01:link,.red01:visited{ color:#DB0707}
+.red01:hover,red01:active{ text-decoration:underline}
+
+.gray{ color:#333}
+.gray:link,.gray:visited{ color:#333}
+.gray:hover,gray:active{ color:#CA0404}
+
+.font-line{ text-decoration:underline}
+.font-line:link,.font-line:visited{  text-decoration:underline}
+
+.text{ font-size:12px; color:#666}
+.text01{ width:112px}
+.text02{ width:106px}
+.text03{ width:208px}
+.buttom{ width:51px; height:44px; font-weight:bold; color:#fff; background:url(../images/index_91.gif); display:block; border:0}
+.text04{ width:422px; height:80px}
+.text05{width:200px; height:60px}
+.text06{ width:180px}
+
+.left_menu{ background:url(../images/case_12.gif); width:158px; height:17px; padding:5px 0px 0px 20px; display:block; color:#fff;}
+.left_menu:link,.left_menu:visited{ background:url(../images/case_12.gif); width:158px; height:17px; padding:5px 0px 0px 20px; display:block; color:#fff;}
+
+.left_menu01{ background:url(../images/case_16.gif); width:158px; height:17px; padding:5px 0px 0px 20px; display:block}
+.left_menu01:link,.left_menu01:visited{ background:url(../images/case_16.gif); width:158px; height:17px; padding:5px 0px 0px 20px; display:block;}
+.left_menu01:hover,left_menu01:active{  background:url(../images/case_12.gif); color:#fff}
+
+.boder{ border:1px solid #ccc; padding:5px}
+.b_r{border-right:1px solid #C1C1C1}
+.b_b{ border-bottom:1px solid #DEDEDE}
+.b_r01{ border-right:1px solid #DEDEDE}
+
+.black{ color:#000}
+
+.white{ color:#fff; font-weight:bold; padding-left:15px}
+.white:link,.white:visited{ color:#fff}
+.white:hover,white:active{ color:#FFFF00}

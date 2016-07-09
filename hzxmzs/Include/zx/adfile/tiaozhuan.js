@@ -1,0 +1,1 @@
+document.writeln("<SCRIPT> \/\/window.location = \"\/\";<\/SCRIPT>")
