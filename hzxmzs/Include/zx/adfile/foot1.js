@@ -1,1 +1,0 @@
-document.writeln("<li><a href=\"http:\/\/www.hzqingshan.com\/\">电动天棚帘<\/a>&nbsp;<a href=\"http:\/\/www.hzqingshan.com\/\">电动遮阳蓬<\/a>&nbsp;<a href=\"http:\/\/www.hzqingshan.com\/\">电动防护窗<\/a>&nbsp;<a href=\"http:\/\/www.hzqingshan.com\/\">杭州电动窗帘<\/a>&nbsp;<a href=\"http:\/\/www.hzbaima.cn\/\">网站推广<\/a><\/li>")

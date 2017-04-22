@@ -1,1 +1,0 @@
-﻿var datediff=getdom('/cnews/page/system/now.asp?datetime=2010%2D7%2D21+0%3A54%3A46');if(datediff>1){getdom('/cnews/page/onepage/create.asp?listid=9%2C8%2C1&time=1');};

@@ -1,1 +1,0 @@
-&introNum=3&fileName1=flash/01.swf&fileName2=flash/02.swf&fileName3=flash/03.swf&loadOk=true
